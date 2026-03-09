@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "This Is How We Riot",
+  "base_artist": "The Winking Owl",
+  "createdAt": "2026-03-09T11:15:15.830467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Is How We Riot",
+      "artist": "The Winking Owl",
+      "has_synced": true,
+      "path": "select/01_This_Is_How_We_Riot_The_Winking_Owl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Is How We Riot",
+      "artist": "The Winking Owl",
+      "has_synced": false,
+      "path": "select/pl_01_This_Is_How_We_Riot_The_Winking_Owl.txt"
+    }
+  ]
+}
